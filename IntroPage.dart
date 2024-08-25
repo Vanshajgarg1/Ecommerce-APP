@@ -25,7 +25,7 @@ class Intropage extends StatelessWidget {
               ),
               const SizedBox(height: 48),
              const Text(
-                'Just do it',
+                'Impossible is Nothing',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 20,
